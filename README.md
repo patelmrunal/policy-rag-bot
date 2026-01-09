@@ -15,33 +15,11 @@ The assistant retrieves relevant policy content and generates grounded answers o
 🧠 Architecture Overview
 
 - User Query
-    ↓
 - FAISS Vector Store (Semantic Retrieval)
-    ↓
 - Retrieved Policy Chunks
-    ↓
 - Prompt + Context
-    ↓
 - LLM (Llama 3.1 via Groq)
-    ↓
 - Grounded Answer + Sources
-
-
-📁 Project Structure
-
-data/
-  policies.pdf          # Input policy documents
-
-src/
-  ingestion.py          # PDF loading, chunking, vector DB creation
-  rag_pipeline.py       # Prompt + retrieval chain
-  app.py                # CLI interface
-  vectorstore/          # Persisted FAISS index
-
-.env
-requirements.txt
-README.md
-
 
 
 ⚙️ Setup Instructions
