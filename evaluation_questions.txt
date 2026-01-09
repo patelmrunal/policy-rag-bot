@@ -1,0 +1,28 @@
+Category A: Answerable
+
+1. What are the core hours for synchronous collaboration?
+2. How many sick leave days do I get per year?
+3. What is the minimum internet speed required for remote work?
+4. How much is the home office stipend?
+5. When can I claim the home office stipend?
+6. What is the shipping time for free standard domestic shipping?
+7. Is there a restocking fee for clothing?
+8. How often must passwords be rotated?
+9. Can I fly business class?
+10. What is the daily meal allowance while traveling?
+
+
+Category B: Partially Answerable 
+11. Can I work from a cafe in Paris for 3 weeks? (Tests Nomad Clause + VPN rule) 
+12. I bought a laptop on sale, can I return it? (Tests Return Window + Electronics fee) 
+13. Does the company provide a monitor? (Text says they provide a MacBook, doesn't mention monitor explicitly). 
+14. My flight is 5 hours long, can I book business class? (Tests Travel policy) 
+15. What happens if I don't use my Wellness Day? (Tests if bot knows it's "mandatory")
+
+
+Category C: Unanswerable
+16. What is the CEO's name? 
+17. Do we get a gym membership reimbursement? 
+18. Can I bring my dog to the office? 
+19. What is the budget for the marketing team? 
+20. How do I apply for a promotion?
